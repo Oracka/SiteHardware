@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Oswald:wght@200..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Oswald:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Julius+Sans+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@500&display=swap');
+
+
+
+table 
+{
+ width: 100%;
+height: 100vh;
+
+}
+td
+{
+ width: 5%;
+ 
+}
+tr
+{
+width: 5%;
+height: 5%;
+}
+
+.principal
+{
+    background-color: #72999E; 
+}
+.segundaria
+{
+    background-color: #845D5D;
+    
+}
+.terciaria 
+{
+    background-color: #4B5A5C;
+}
+.quarta
+{
+    background-color: #866C58;
+}
+.logo
+{
+    width: 120px;
+    align-self: auto;
+}
+.anuncio
+{
+    width: 1000px;
+    align-self: auto;
+}
+.produtos
+{
+vertical-align: auto;
+width: 500px;
+}
+.precos
+{
+    align-self: auto;
+    font-size: x-large;
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+.linhaMenor
+{
+    height: 3%;
+}
+.linhaMinima
+{
+    height: 15px;
+}
+.text{
+text-align: right;
+font-family: "Kdam Thmor Pro", sans-serif;
+font-size: x-large;
+color: #0c3b68;
+}
+.textver{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+
+}
+.user{
+width: 50px;
+align-self:  auto;
+
+
+
+
+}
+.extra{
+font-family: "Oswald", sans-serif;
+font-weight: 300;
+}
+
+body{
+    background-image: url(backgroundDEF.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
